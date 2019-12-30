@@ -387,13 +387,8 @@ button:not(.disabled):hover {
   opacity: 0.5;
 }
 
-<<<<<<< HEAD
-#credits, #translation {
-  margin-top: 1.5em;
-=======
 .credits {
   margin-top: 1.5em;
->>>>>>> cbbdcf2ead556c384d68bc3fcaade97c6c84197b
   line-height: 1.5em;
   text-align: center;
   font-size: 12px;
